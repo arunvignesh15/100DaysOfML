@@ -8,4 +8,4 @@ Here i will updating my progress in **Machine Learning / Deep Learning concepts*
 
 **Thoughts**         : Really excited to Explore this Cutting Edge Technology.
 
-**Link of Work:**    : 
+**Link of Work**     : 
