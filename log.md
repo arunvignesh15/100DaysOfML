@@ -10,6 +10,7 @@ Here i will updating my progress in **Machine Learning / Deep Learning concepts*
 
 ## Day 1 : October 1,2019
 
-**Today's Progress** : ***Machine learning***: Data prepeocessing steps
+**Today's Progress** : ***Machine learning***: Data prepeocessing steps.
+                       ***Deep learning***: Yet to start
 
 **Thoughts**         : Basics step that we need to be taken care before any ML/DL problems were covered.
