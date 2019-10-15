@@ -14,8 +14,7 @@ Here you will find the Machine learning related Techinques:
   
 ### Regression:
 
-- Simple Linear Regression
-- Multiple Linear Regression
+- Simple & Multiple Linear Regression
 
   - Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Machine_Learning/Multiple_Linear_Regression.md).
   - Check out the Reference from [Ref1](https://medium.com/@pytholabs/multivariate-linear-regression-from-scratch-in-python-5c4f219be6a).
