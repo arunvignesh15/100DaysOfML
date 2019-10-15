@@ -14,6 +14,8 @@ Here you will find the Machine learning related Techinques:
   
 ### Regression:
 
+Before pitching into the world of Regression, i would like you to look into this [article](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/) to get a brief idea in one shoot.
+
 - Simple & Multiple Linear Regression
 
   - Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Machine_Learning/Multiple_Linear_Regression.md).
