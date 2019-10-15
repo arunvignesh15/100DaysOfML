@@ -23,6 +23,11 @@ Before pitching into the world of Regression, i would like you to look into this
   - Check out the Reference from [Ref2](https://www.datacamp.com/community/tutorials/essentials-linear-regression-python).
   
 - Polynomial Regression
+
+  - Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Machine_Learning/polynomial_Regression.md).
+  - Check out the Reference from [Ref1](https://towardsdatascience.com/polynomial-regression-bbe8b9d97491).
+  - Check out the Reference from [Ref2](https://www.analyticsvidhya.com/blog/2018/03/introduction-regression-splines-python-codes/).
+  
 - Support Vector for Regression (SVR)
 - Decision Tree Classification
 - Random Forest Classification
