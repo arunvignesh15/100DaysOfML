@@ -47,6 +47,12 @@ Before pitching into the world of Regression, i would like you to look into this
 - Kernal SVM
 - Navie Bayes
 - Decision Tree Classification
+
+  - Check out the code for Cleaned Titanic Dataset from [here](https://github.com/mankertales/100DaysOfML/blob/master/Machine_Learning/Decision_Tree.ipynb).
+  - Check out the Reference from [Ref1](https://courses.analyticsvidhya.com/courses/take/getting-started-with-decision-trees/lessons/8157461-introduction-to-decision-tree).
+  - Check out the Reference from [Ref2](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/).
+  - Check out the Reference from [Ref3](https://www.datacamp.com/community/tutorials/decision-tree-classification-python).
+  
 - Randon Forest Classification
 - Evaluting Classification Model Performance
 
