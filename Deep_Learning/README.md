@@ -10,4 +10,5 @@ Reference : PadhAI, now they migrated to GUVI
 ### Primitive Neurons
 
 - Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/MPNeuronAndPerceptron.ipynb).
-- Check out the Reference from [Ref1]().
+- Perceptron Learning [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Perceptron+Learning+Algorithm.pdf).
+- Perceptron Learning [How it Works](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Perceptron+Learning+-+Why+it+works_.pdf).
