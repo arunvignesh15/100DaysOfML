@@ -15,14 +15,17 @@ Reference : PadhAI, now they migrated to GUVI
 
 - Perceptron Learning [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Perceptron+Learning+Algorithm.pdf).
 - Perceptron Learning [How it Works](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Perceptron+Learning+-+Why+it+works_.pdf).
- #### Code
+  #### Code
 
 - Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/MPNeuronAndPerceptron.ipynb).
 
 #### Sigmoid Neuron
 
-- Perceptron Learning [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Perceptron+Learning+Algorithm.pdf).
-- Perceptron Learning [How it Works](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Perceptron+Learning+-+Why+it+works_.pdf).
+- Sigmoid Neuron Learning [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Sigmoid_Neuron_Learning+The+complete+learning+algorithm.pdf).
+- Sigmoid Neuron Learning [How it Works](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Sigmoid_Neuron_Learning+Mathematical+setup+for+the+learning+algorithm.pdf).
+- Sigmoid Neuron Learning using [Gradient Descent](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Sigmoid_Neuron_Learning+Deriving+the+Gradient+Descent+Update+Rule.pdf).
+- Sigmoid Neuron Learning [Mathematical setup](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Sigmoid_Neuron_Learning+Mathematical+setup+for+the+learning+algorithm.pdf).
+
   #### Code
 
 - Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/mobile91_Sigmoid_Neuron-cross_entropy_loss.ipynb).
