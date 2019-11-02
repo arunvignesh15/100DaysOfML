@@ -18,3 +18,12 @@ Reference : PadhAI, now they migrated to GUVI
 #### Code
 
 - Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/MPNeuronAndPerceptron.ipynb).
+
+#### Sigmoid Neuron
+
+- Perceptron Learning [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Perceptron+Learning+Algorithm.pdf).
+- Perceptron Learning [How it Works](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Perceptron+Learning+-+Why+it+works_.pdf).
+#### Code
+
+- Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/mobile91_Sigmoid_Neuron-cross_entropy_loss.ipynb).
+- Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/mobile91_Sigmoid_Neuron_squared_error_loss.ipynb).
