@@ -30,3 +30,11 @@ Reference : PadhAI, now they migrated to GUVI
 
 - Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/mobile91_Sigmoid_Neuron-cross_entropy_loss.ipynb).
 - Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/mobile91_Sigmoid_Neuron_squared_error_loss.ipynb).
+
+#### Feed Forward Network
+
+- Feed Forward Network [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Sigmoid_Neuron_Learning+The+complete+learning+algorithm.pdf).
+
+  #### Code
+
+- Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/FeedForwardNetwork.ipynb).
