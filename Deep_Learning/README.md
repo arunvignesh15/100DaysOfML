@@ -38,3 +38,12 @@ Reference : PadhAI, now they migrated to GUVI
   #### Code
 
 - Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/FeedForwardNetwork.ipynb).
+
+#### Back Propagation
+
+- Back Propagation Network [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Sigmoid_Neuron_Learning+The+complete+learning+algorithm.pdf).
+
+  #### Code
+
+- Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/FeedForwardNetwork.ipynb).
+
