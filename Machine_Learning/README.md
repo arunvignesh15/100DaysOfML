@@ -54,6 +54,9 @@ Before pitching into the world of Regression, i would like you to look into this
   - Check out the Reference from [Ref2](https://towardsdatascience.com/building-a-logistic-regression-in-python-301d27367c24).
   
 - K-Nearest Neighbour
+
+ - Check out the code [here](https://github.com/mankertales/100DaysOfML/blob/master/Machine_Learning/Support_vector_machine_kernal.ipynb).
+  
 - Support Vector Machine
 
   - Check out the code [here](https://github.com/mankertales/100DaysOfML/blob/master/Machine_Learning/Support_vector_machine.ipynb).
