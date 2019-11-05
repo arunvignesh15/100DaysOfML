@@ -38,8 +38,8 @@ Reference : PadhAI, now they migrated to GUVI
   #### Code
 
 - Check out the code from [here for Feed Forward Network](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/FeedForwardNetwork.ipynb).
-- Check out the code from [here for Feed Forward Network Generic Class ](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/FeedForwardNetwork-Generic Class.ipynb).
-- Check out the code from [here for Feed Forward Network Multi_class_classification](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/FeedForwardNetwork-Multi_class_classification.ipynb).
+- Check out the code from [here for Feed Forward Network Generic Class ](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/FeedForwardNetwork_Generic_Class.ipynb).
+- Check out the code from [here for Feed Forward Network Multi_class_classification](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/FeedForwardNetwork_Multi_class_classification.ipynb).
 
 #### Back Propagation
 
