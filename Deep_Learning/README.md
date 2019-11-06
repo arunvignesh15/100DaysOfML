@@ -47,5 +47,5 @@ Reference : PadhAI, now they migrated to GUVI
 
   #### Code
 
-- Check out the code from [here](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/FeedForwardNetwork.ipynb).
-
+- Check out the code from [here for Scalar Backpropagation First Feed Forward Network](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/ScalarBackpropagation_First_FF_Network.ipynb).
+- Check out the code from [here for Scalar Backpropagation Multi class classification](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/ScalarBackpropagation_Multi_class_classification.ipynb).
