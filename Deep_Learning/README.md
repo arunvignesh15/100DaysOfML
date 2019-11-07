@@ -52,7 +52,7 @@ Reference : PadhAI, now they migrated to GUVI
 
 #### Vectorized Feed Forward Networks
 
-- Back Propagation Network [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Sigmoid_Neuron_Learning+The+complete+learning+algorithm.pdf).
+- Vectorized Feed Forward Networks [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Sigmoid_Neuron_Learning+The+complete+learning+algorithm.pdf).
 
 #### Code
 
