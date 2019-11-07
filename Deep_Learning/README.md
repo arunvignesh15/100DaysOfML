@@ -49,3 +49,11 @@ Reference : PadhAI, now they migrated to GUVI
 
 - Check out the code from [here for Scalar Backpropagation First Feed Forward Network](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/ScalarBackpropagation_First_FF_Network.ipynb).
 - Check out the code from [here for Scalar Backpropagation Multi class classification](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/ScalarBackpropagation_Multi_class_classification.ipynb).
+
+#### Vectorized Feed Forward Networks
+
+- Back Propagation Network [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Sigmoid_Neuron_Learning+The+complete+learning+algorithm.pdf).
+
+#### Code
+
+- Check out the code from [here for Vectorized Feed Forward Networks](https://github.com/mankertales/100DaysOfML/blob/master/Deep_Learning/VectorizedFeedForwardNetworks.ipynb).
