@@ -60,10 +60,7 @@ Reference : PadhAI, now they migrated to GUVI
 
 ### Learning Algorthim
 
+- The idea of stochastic and Mini Batch Gradient Descent [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/The+idea+of+stochastic+and+mini-batch+gradient+descent.pdf).
 - Momentum Based Gradient Descent [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Dissecting+the+update+rule+for+momentum+based+gradient+descent.pdf).
-- Running Mini Batch Gradient Descent [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Running+mini-batch+gradient+descent.pdf).
-- Running Stochastic Gradient Descent [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Running+stochastic+gradient+descent.pdf).
-
-
-
-
+- Mini Batch Gradient Descent [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Running+mini-batch+gradient+descent.pdf).
+- Stochastic Gradient Descent [Algorthim](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Running+stochastic+gradient+descent.pdf).
