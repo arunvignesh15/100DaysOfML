@@ -67,4 +67,6 @@ Reference : PadhAI, now they migrated to GUVI
 
 ### Adaptive Learning Algorthims
 
+- Why do we need [Adaptive Learning Rate](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Why+do+we+need+an+adaptive+learning+rate+_.pdf)
+- Adagrad [Learning](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Introducing+Adagrad.pdf)
 
