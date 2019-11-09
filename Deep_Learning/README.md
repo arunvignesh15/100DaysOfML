@@ -69,4 +69,6 @@ Reference : PadhAI, now they migrated to GUVI
 
 - Why do we need [Adaptive Learning Rate](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Why+do+we+need+an+adaptive+learning+rate+_.pdf)
 - Adagrad [Learning](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Introducing+Adagrad.pdf)
-
+    - Running Adagrad [Learning](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Running+and+Visualizing+Adagrad.pdf)
+- RMSProp [Learning and Visualization](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Running+and+visualizing+RMSProp.pdf)
+- Adam [Learning and Visualization](https://github.com/mankertales/100DaysOfML/edit/master/Deep_Learning/Running+and+visualizing+Adam.pdf)
